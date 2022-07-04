@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
-<img alt="Profile View" src="https://gpvc.arturio.dev/carotobarj" />
-</p>
+
 <!--
 **carotobarj/carotobarj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,3 +43,6 @@ Here are some ideas to get you started:
 <!-- 
 <p align="center"><img src="https://profile-counter.glitch.me/{carotobarj}/count.svg" alt="carotobarj :: Visitor's Count" /></p> --> 
 
+<p align="center">
+<img alt="Profile View" src="https://gpvc.arturio.dev/carotobarj" />
+</p>
