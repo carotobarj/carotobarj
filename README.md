@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-
+<p align="center">
+<img alt="Profile View" src="https://gpvc.arturio.dev/carotobarj" />
+</p>
 <!--
 **carotobarj/carotobarj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,6 +41,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carotobarj&theme=light" alt="carotobarj" /></p>
 
 </br>
-<h4 align="center">Visitor's :eyes:</h4>
+<!-- <h4 align="center">Visitor's :eyes:</h4>
+<!-- 
+<p align="center"><img src="https://profile-counter.glitch.me/{carotobarj}/count.svg" alt="carotobarj :: Visitor's Count" /></p> --> 
 
-<p align="center"><img src="https://profile-counter.glitch.me/{carotobarj}/count.svg" alt="carotobarj :: Visitor's Count" /></p>
