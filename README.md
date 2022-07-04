@@ -1,5 +1,6 @@
-<img src="https://github.com/carotobarj/carotobarj/assets/girl.01.png" width="100%"/>
-### Hi there 👋
+<img src="../carotobarj/assets/girl01.png" width="150px" height="150px"/>
+<br/>
+Hi there 👋
 
 
 <!--
