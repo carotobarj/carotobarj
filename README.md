@@ -1,4 +1,4 @@
-<img src="https://github.com/carotobarj/carotobarj/assets/girl.01.png" width="100%"/>
+
 ### Hi there 👋
 
 
