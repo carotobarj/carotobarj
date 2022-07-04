@@ -1,4 +1,4 @@
-<img src="../carotobarj/assets/girl01.png" width="150px" height="150px"/>
+<img src="[../carotobarj/assets/girl01.png](https://123emoji.com/hacker-girl-sticker-516/)" width="150px" height="150px"/>
 <br/>
 Hi there 👋
 
