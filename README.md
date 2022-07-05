@@ -1,19 +1,17 @@
 
 ![girl01](https://user-images.githubusercontent.com/82724532/177223697-f5e3bacf-620d-423f-9569-5aa94e8af183.png)
 <br/>
-Hi there 👋
+Hello! 👋🏻 I am Carolina, I initially studied business administration and marketing. 
 
+I am a person who seeks professional and personal growth, focused on teamwork, last year I made the decision to reinvent myself professionally so I started training in an area that I have always been passionate about; programming. 
 
+As part of my training in web development I have developed competencies in: 
+UX/UI, HTML, CSS, Sass, Gulp, JavaScript, Git, NodeJS, Express, React, Redux, SQL, Sequelize, Scrum.
 
+Being a creative person I have focused on the frontend and UX/UI area, because I firmly believe that solutions can be solved efficiently where design, user experience and functionality are important parts in the development of any web application.
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I consider that my background in marketing and business administration allows me to bring to organizations a comprehensive knowledge in terms of production processes, as well as experience in the area of customer service both internal and external, business creation, project development, management of students in educational environments, management of suppliers, good interpersonal relationships.
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -26,13 +24,14 @@ Hi there 👋
 <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/>
 <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/>
-<img width="15%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"/>
-<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/>
-<img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" width="15%"/>  
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>  
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
+<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" width="12%"/>
+<img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" width="12%"/>
+<img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" width="12%"/>  
+
 
 
 ## 📊 Take a look in my stats
@@ -43,7 +42,15 @@ Hi there 👋
 </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carotobarj&theme=light" alt="carotobarj" /></p>
-
+</br>
+- 📫 How to reach me: 
+</br>
+<a href="mailto:carotobarj@gmail.com" target="_blank">
+<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> 
+</a>
+<a href="https://www.linkedin.com/in/carolina-tobar-jaramillo/" target="_blank"> 
+<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
 </br>
 
 <p align="center">
