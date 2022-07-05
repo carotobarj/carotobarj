@@ -43,6 +43,7 @@ I consider that my background in marketing and business administration allows me
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carotobarj&theme=light" alt="carotobarj" /></p>
 </br>
+
 ## 📫 How to reach me: 
 </br>
 <a href="mailto:carotobarj@gmail.com" target="_blank">
