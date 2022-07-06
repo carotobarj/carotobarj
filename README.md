@@ -32,6 +32,7 @@ I consider that my background in marketing and business administration allows me
 <a href="https://sequelize.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="sequelize" width="12%"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" width="12%"/> </a> 
 
+
 ## 📊 Take a look in my stats
 
 <a href="https://github.com/carotobarj" >
@@ -48,6 +49,9 @@ I consider that my background in marketing and business administration allows me
 <a href="https://www.linkedin.com/in/carolina-tobar-jaramillo/" target="_blank"> 
 <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
+<a href="https://wa.link/a9e162" target="_blank"> 
+<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-whatsapp-social-media-justicon-lineal-color-justicon.png" alt="whatsapp" width="40" height="40"/>
+ </a>
 </br>
 
 <p align="center">
