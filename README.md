@@ -49,9 +49,6 @@ I consider that my background in marketing and business administration allows me
 <a href="https://www.linkedin.com/in/carolina-tobar-jaramillo/" target="_blank"> 
 <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
-<a href="https://wa.link/a9e162" target="_blank"> 
-<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-whatsapp-social-media-justicon-lineal-color-justicon.png" alt="whatsapp" width="40" height="40"/>
- </a>
 </br>
 
 <p align="center">
