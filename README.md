@@ -35,10 +35,6 @@ I consider that my background in marketing and business administration allows me
 
 ## 📊 Take a look in my stats
 
-<a href="https://github.com/carotobarj" >
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=carotobarj&show_icons=true&bg_color=fff&title_color=DD6387&icon_color=BD93F9&text_color=023047&border_color=fff" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carotobarj&layout=compact&bg_color=fff&title_color=DD6387&icon_color=BD93F9&text_color=023047&border_color=fff" />
-</a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carotobarj&theme=light" alt="carotobarj" /></p>
 
 ## 📫 How to reach me: 
